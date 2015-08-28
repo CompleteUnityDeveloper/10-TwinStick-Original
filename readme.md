@@ -55,3 +55,9 @@ If you are interested in seeing how this code was written as part of our epic 40
 * An overview of how we will do things.
 * Introducing a circular (ring) buffer.
 * (No Unity project file changes in this video).
+
+## Class Vs Struct In C#
+* Why we’re not using [Unity’s Keyframe struct](http://docs.unity3d.com/ScriptReference/Keyframe.html)
+* Comparing classes and structs as options.
+* Creating our own MyKeyframe struct.
+
