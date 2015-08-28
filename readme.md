@@ -61,3 +61,9 @@ If you are interested in seeing how this code was written as part of our epic 40
 * Comparing classes and structs as options.
 * Creating our own MyKeyframe struct.
 
+## Creating A Replay System
+* An overview of our replay system code.
+* Implementing a ring buffer for frames.
+* Testing our record and playback.
+
+## Building A Game Manager
