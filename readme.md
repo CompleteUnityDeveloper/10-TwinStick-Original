@@ -77,3 +77,8 @@ If you are interested in seeing how this code was written as part of our epic 40
 * Creating a button to trigger the replay.
 * A little more about UI anchors.
 * Building to Android & testing performance.
+
+## Level Unlocks In Unity
+* Dig-up your old PlayerPrefsManager
+* Add code to handle level unlocks.
+* Create a simple proof of concept.
