@@ -67,3 +67,13 @@ If you are interested in seeing how this code was written as part of our epic 40
 * Testing our record and playback.
 
 ## Building A Game Manager
+* Create a simple Game Manager.
+* Use it to keep track of recording / playback.
+* Wire it to the ReplaySystem.cs script.
+* Test playback.
+
+## Touchscreen Joystick Control
+* Using the MobileSingleStickControl prefab.
+* Creating a button to trigger the replay.
+* A little more about UI anchors.
+* Building to Android & testing performance.
