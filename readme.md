@@ -82,3 +82,8 @@ If you are interested in seeing how this code was written as part of our epic 40
 * Dig-up your old PlayerPrefsManager
 * Add code to handle level unlocks.
 * Create a simple proof of concept.
+
+## Pausing Your Game
+* See one way of pausing your game in Unity.
+* Look at OnApplicationPause message.
+* Understand Time.timeScale better.
