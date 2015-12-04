@@ -87,3 +87,10 @@ If you are interested in seeing how this code was written as part of our epic 40
 * See one way of pausing your game in Unity.
 * Look at OnApplicationPause message.
 * Understand Time.timeScale better.
+
+## Reading From 2nd Stick
+* Reading from 3rd and 4th joystick axis.
+* Import & explore “selfie stick” prefab.
+* Write code to make camera track player.
+* Write code to make right stick orbit the camera.
+* Test it’s all working.
