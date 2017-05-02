@@ -120,6 +120,3 @@ A PDF of the slides used in this section.
 
 
 ### Section 10 Wrap-Up ###
-
----
-Find out more about our [Complete Unity Developer Course](https://www.udemy.com/unitycourse?couponCode=GitHubDiscount).
