@@ -1,3 +1,10 @@
+# Complete Unity Developer - Section 10 - TwinStick
+
+This is the [Complete Unity Developer](http://gdev.tv/cudgithub) - one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects and our latest teaching techniques. You will benefit from the fact we have already taught over 360,336 students game development, many shipping commercial games as a result.
+
+You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Complete Unity Developer](http://gdev.tv/cudgithub)
+
+## In This Section
 ### Welcome to Twin Sticks ###
 
 In this video Ben Tristem explains what you will learn about Unity 5 in this
